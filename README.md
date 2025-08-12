@@ -1,17 +1,16 @@
-![mobile-first development](https://media4.giphy.com/media/v1.Y2lkPTdiYzJhNDkwZHJoc3M3eW54djFva21wbXhvZGV3NWRqMnlkOWxoY3Bqbm1idWhtcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WOTIEXsPaNjqGR8lX2/giphy.gif)
-
 # 介绍
-你好，我是screwtape151，一名热衷于软件开发的工程师，专注于提升代码质量与团队协作。
+大家好，我是screwtape151，一名热爱编程与开源的开发者。
 
 # 技能
-- 编程语言：Python, JavaScript, Java
-- 框架：React, Django
-- 工具：Git, Docker, CI/CD
+- 前端开发：HTML, CSS, JavaScript, React
+- 后端开发：Node.js, Express
+- 数据库：MongoDB, MySQL
+- 版本控制：Git
 
 # 项目
-- [项目A](https://github.com/screwtape151/projectA): 这是一个关于...的项目。
-- [项目B](https://github.com/screwtape151/projectB): 这是一个关于...的项目。
+- [项目1](https://github.com/screwtape151/project1): 一个有趣的前端应用。
+- [项目2](https://github.com/screwtape151/project2): 后端API的示例。
 
 # 联系
-- 邮箱: screwtape151@example.com
-- LinkedIn: [screwtape151](https://www.linkedin.com/in/screwtape151)
+- 电子邮件：screwtape151@example.com
+- LinkedIn：[screwtape151](https://www.linkedin.com/in/screwtape151)
