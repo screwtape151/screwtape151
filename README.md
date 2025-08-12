@@ -1,47 +1,18 @@
-# 👾 screwtape151
+# 🌌 Welcome to My Profile!
 
-欢迎来到我的GitHub！我是一名区块链开发者，致力于探索去中心化的未来。
-
----
-
-## 🎯 关注领域
-- 智能合约开发
-- DeFi 应用程序
-- 区块链安全
-- NFT 生态系统
-
----
-
-## ⚙️ 技术栈
-![Tech Stack](https://img.shields.io/badge/Tech-Blockchain%20-%233e8e41.svg?style=flat)
-- Solidity
-- Ethereum
-- Hyperledger
-- JavaScript
-- Node.js
-
----
-
-## 🌟 项目亮点
-| 项目名称      | 描述                   | 链接                       |
-| ------------- | ---------------------- | -------------------------- |
-| DApp示例      | 基于以太坊的去中心化应用 | https://github.com/screwtape151/dapp-example |
-| NFT市场      | 用户生成的艺术品交易平台| https://github.com/screwtape151/nft-market |
-
----
-
-## 📊 统计信息
 ![Profile Views](https://komarev.com/ghpvc/?username=screwtape151&label=Profile%20Views&color=blue&style=flat)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=screwtape151&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=screwtape151&layout=compact&theme=radical)
-![Streak Stats](https://streak-stats.demolab.com/?user=screwtape151&theme=radical)
 
----
+## Highlights 🚀
+- Systems programming enthusiast with a knack for performance optimization.
+- Contributor to various open-source projects focusing on low-level systems.
+- Always learning new languages and technologies to enhance my skill set.
 
-## 📫 联系我
-- [Twitter](https://twitter.com/screwtape151)
-- [LinkedIn](https://www.linkedin.com/in/screwtape151)
+## 🛠️ Toolkit
+![C](https://img.shields.io/badge/-C-informational?style=flat&logo=c&logoColor=white&color=00599C) ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-orange?style=flat&logo=rust&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-lightgray?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white) 
 
----
+## 🌐 Connect With Me
+- [GitHub Profile](https://github.com/screwtape151)  
+- [Telegram](https://t.me/screwtape151)  
 
-感谢您的访问，希望能在区块链的旅程中与您合作！
+<!--fp:1755006776-2183:screwtape151:systems-programming:fr--> 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=screwtape151&layout=compact&theme=algolia" height="130"/> <img src="https://github-readme-stats.vercel.app/api?username=screwtape151&show_icons=true&theme=algolia" height="130"/></p>
