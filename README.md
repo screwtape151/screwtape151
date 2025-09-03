@@ -1,61 +1,83 @@
-# 🐉 你好, 我是 screwtape151  
+# 🀄️ 鬼才工程师 | screwtape151
 
-<img src="https://komarev.com/ghpvc/?username=screwtape151&label=观众&color=red&style=flat" align="right"/>
+```
+          ╭──────────────────────────╮
+          │   "代码是武器, 创意是灵魂" │
+          ╰──────────────────────────╯
+```
 
-> ✨ "代码即武术, 调试如修行" ✨  
-> *(Code is martial arts, debugging is meditation)*  
-
----
-
-## 📜 关于我 | About Me
-👨‍💻 全栈开发者 (Full-Stack Developer)  
-⚡ 热爱创造 ⚡ 热爱打破常规 ⚡ 热爱挑战极限  
-
-我相信： **技术 + 创意 = 无限可能**  
+> 👾 *Code is the blade. Creativity is the soul.* 👾
 
 ---
 
-## 🎯 当前方向 | Focus
-- 🌐 Web-开发 (Frontend + Backend)  
-- 🧭 用户体验 + UI/UX  
-- ☁️ 云计算 & DevOps  
-- 🔬 新技术实验  
+## 🐉 Who am I?
+
+🔮 全栈开发者 | Full-Stack Engineer
+⚔️ 技术武僧 | Tech Monk
+💡 创造型黑客 | Creative Hacker
+
+🌌 **我不写代码, 我在刻画未来**
+(*I don’t write code, I carve the future*)
 
 ---
 
-## ⚔️ 工具箱 | Toolkit
-![JavaScript](https://img.shields.io/badge/⚡_JavaScript-ffcc00?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/🌱_Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/⚛️_React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/🐋_Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/☁️_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+## 🧩 技能矩阵 | Skill Matrix
+
+```
+⚡ 前端: React / Next.js / Tailwind
+⚙️ 后端: Node.js / Express / PHP
+☁️ 云端: AWS / Docker / CI/CD
+🧠 数据: PostgreSQL / MongoDB / Redis
+🎨 美学: Cyberpunk UI / Dark Zen
+```
 
 ---
 
-## 🏆 成就 | Highlights
-- 🌟 开源贡献 (Open Source Contributions)  
-- 📚 技术分享 (Tech Blogging & Writing)  
-- 🚀 黑客马拉松 (Hackathons & Rapid Prototyping)  
+## 🏯 Highlights
+
+* 🌟 **开源武功 (Open Source Power):** 在多个项目中贡献代码与思想
+* 📜 **技术经文 (Knowledge Scrolls):** 撰写文章分享经验与秘籍
+* ⚡ **极限试炼 (Hackathons):** 快速构建, 挑战极限, 打破规则
 
 ---
 
-## 📊 数据 | Stats  
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=screwtape151&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=screwtape151&layout=compact&theme=tokyonight&hide_border=true" height="150"/>  
-<img src="https://streak-stats.demolab.com/?user=screwtape151&theme=tokyonight&hide_border=true" height="150"/>
+## 📊 数据 | Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=screwtape151&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=screwtape151&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=screwtape151&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## ⚡ 代码即武术 | Code is KungFu
+
+```
+        ⠀⠀⠀⠀⠀⢀⣤⣤⣤⡀⠀⠀⠀⠀⠀⠀⠀
+        ⠀⠀⢀⣴⣿⡿⠛⠛⠛⠻⢿⣦⡀⠀⠀⠀
+        ⠀⣴⣿⠟⠁⠀⠀⣀⠀⠀⠀⠈⠻⣿⣦⠀
+        ⣼⣿⠁⠀⠀⠀⢰⣿⡆⠀⠀⠀⠀⠈⣿⣧
+        ⣿⣿⠀⠀⠀⢀⡀⠉⠁⠀⡀⠀⠀⠀⣿⣿
+        ⣿⣿⠀⠀⠀⠘⠿⠿⠃⠘⠿⠿⠇⠀⣿⣿
+        ⢿⣿⡀⠀⠀⠀⠀⣠⣤⣄⠀⠀⠀⠀⣿⡿
+        ⠘⣿⣧⠀⠀⠀⠈⠻⠿⠟⠀⠀⠀⣸⣿⠃
+        ⠀⠙⢿⣦⡀⠀⠀⠀⠀⠀⠀⢀⣴⡿⠋⠀
+        ⠀⠀⠀⠙⠻⢿⣶⣶⣶⣶⡿⠟⠋⠀⠀⠀
+```
 
 ---
 
 ## 📡 联系方式 | Contact
-- 🐙 GitHub: [https://github.com/screwtape151](https://github.com/screwtape151)  
-- 📡 Telegram: [https://t.me/screwtape151](https://t.me/screwtape151)  
+
+* 🐙 GitHub: [https://github.com/screwtape151](https://github.com/screwtape151)
+* 📡 Telegram: [https://t.me/screwtape151](https://t.me/screwtape151)
 
 ---
 
-<p align="center">  
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400"/>  
-</p>
+<p align="center">⚔️ "Debugging is meditation, coding is combat." ⚔️</p>
 
 <sub>ID: 17550109</sub>
