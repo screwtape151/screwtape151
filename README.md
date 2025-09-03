@@ -1,32 +1,61 @@
-# 👋 Hi there, I'm screwtape151
+# 🐉 你好, 我是 screwtape151  
 
-![Profile Views](https://komarev.com/ghpvc/?username=screwtape151&label=Profile%20Views&color=blue&style=flat)
+<img src="https://komarev.com/ghpvc/?username=screwtape151&label=观众&color=red&style=flat" align="right"/>
 
-### A passionate developer turning ideas into reality.
+> ✨ "代码即武术, 调试如修行" ✨  
+> *(Code is martial arts, debugging is meditation)*  
 
-## Summary
-I'm a full-stack developer with a love for building innovative web applications. My journey began with a curiosity about how things work, and it has blossomed into a lifelong passion for technology.
+---
 
-## Focus
-Currently focused on web development, especially in building user-friendly interfaces and robust back-end systems. I enjoy working with JavaScript frameworks and diving deep into cloud technologies.
+## 📜 关于我 | About Me
+👨‍💻 全栈开发者 (Full-Stack Developer)  
+⚡ 热爱创造 ⚡ 热爱打破常规 ⚡ 热爱挑战极限  
 
-## Toolkit
-![JavaScript](https://img.shields.io/badge/JavaScript-ffcc00?style=flat&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+我相信： **技术 + 创意 = 无限可能**  
 
-## Highlights
-- 🌟 **Open Source Contributions**: Actively contribute to several open-source projects.
-- 📚 **Tech Blogging**: Write articles to share knowledge and insights on web development.
-- 🚀 **Hackathons**: Participate in hackathons to enhance skills and create innovative solutions.
+---
 
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=screwtape151&show_icons=true&theme=radical)
+## 🎯 当前方向 | Focus
+- 🌐 Web-开发 (Frontend + Backend)  
+- 🧭 用户体验 + UI/UX  
+- ☁️ 云计算 & DevOps  
+- 🔬 新技术实验  
 
-## Contact
-- GitHub: [screwtape151](https://github.com/screwtape151)
-- Telegram: [t.me/screwtape151](https://t.me/screwtape151)
+---
 
-<sub>id:17550109</sub>
+## ⚔️ 工具箱 | Toolkit
+![JavaScript](https://img.shields.io/badge/⚡_JavaScript-ffcc00?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/🌱_Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/⚛️_React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/🐋_Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/☁️_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=screwtape151&layout=compact&theme=radical" height="130"/> <img src="https://github-readme-stats.vercel.app/api?username=screwtape151&show_icons=true&theme=radical" height="130"/></p>
-<p><img src="https://streak-stats.demolab.com/?user=screwtape151&theme=radical" height="150"/></p>
+---
 
+## 🏆 成就 | Highlights
+- 🌟 开源贡献 (Open Source Contributions)  
+- 📚 技术分享 (Tech Blogging & Writing)  
+- 🚀 黑客马拉松 (Hackathons & Rapid Prototyping)  
+
+---
+
+## 📊 数据 | Stats  
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=screwtape151&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=screwtape151&layout=compact&theme=tokyonight&hide_border=true" height="150"/>  
+<img src="https://streak-stats.demolab.com/?user=screwtape151&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📡 联系方式 | Contact
+- 🐙 GitHub: [https://github.com/screwtape151](https://github.com/screwtape151)  
+- 📡 Telegram: [https://t.me/screwtape151](https://t.me/screwtape151)  
+
+---
+
+<p align="center">  
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400"/>  
+</p>
+
+<sub>ID: 17550109</sub>
